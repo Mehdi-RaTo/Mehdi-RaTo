@@ -1,2 +1,16 @@
-## 💻 Skills:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![VB](https://img.shields.io/badge/VisualBasic-%2300599C.svg?style=flat-square&logo=visualbasic&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+# Work experience:
+![C++](https://img.shields.io/badge/C%2B%2B-CCC?style=for-the-badge&logoColor=%23CCC&labelColor=%23333&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-CCC?style=for-the-badge&logoColor=%23CCC&labelColor=%23333&logo=csharp)
+![VB](https://img.shields.io/badge/Visual_Basic-CCC?style=for-the-badge&logoColor=%23CCC&labelColor=%23333&logo=visualbasic)
+![PHP](https://img.shields.io/badge/PHP-CCC?style=for-the-badge&logoColor=%23CCC&labelColor=%23333&logo=php)
+![LUA](https://img.shields.io/badge/LUA-CCC?style=for-the-badge&logoColor=%23CCC&labelColor=%23333&logo=lua)
+![JS](https://img.shields.io/badge/JavaScript-CCC?style=for-the-badge&logoColor=%23CCC&labelColor=%23333&logo=javascript)
+![TS](https://img.shields.io/badge/TypeScript-CCC?style=for-the-badge&logoColor=%23CCC&labelColor=%23333&logo=typescript)
+![HTML](https://img.shields.io/badge/HTML5-CCC?style=for-the-badge&logoColor=%23CCC&labelColor=%23333&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-CCC?style=for-the-badge&logoColor=%23CCC&labelColor=%23333&logo=css3)
+
+![MSSQL](https://img.shields.io/badge/MS_SQL-CCC?style=for-the-badge&logoColor=%23CCC&labelColor=%23333&logo=microsoftsqlserver)
+![MYSQL](https://img.shields.io/badge/MY_SQL-CCC?style=for-the-badge&logoColor=%23CCC&labelColor=%23333&logo=mysql)
+![.NET](https://img.shields.io/badge/.NET-CCC?style=for-the-badge&logoColor=%23CCC&labelColor=%23333&logo=dotnet)
+![React](https://img.shields.io/badge/React-CCC?style=for-the-badge&logoColor=%23CCC&labelColor=%23333&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-CCC?style=for-the-badge&logoColor=%23CCC&labelColor=%23333&logo=react)

@@ -8,8 +8,8 @@
 [![Python](https://img.shields.io/badge/Python-ccc?logoColor=ccc&labelColor=333&logo=python)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-ccc?logoColor=ccc&labelColor=333&logo=javascript)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-ccc?logoColor=ccc&labelColor=333&logo=typescript)]()
-[![HTML5](https://img.shields.io/badge/HTML5-ccc?logoColor=ccc&labelColor=333&logo=html5)]()
-[![CSS3](https://img.shields.io/badge/CSS3-ccc?logoColor=ccc&labelColor=333&logo=css3)]()
+[![HTML](https://img.shields.io/badge/HTML-ccc?logoColor=ccc&labelColor=333&logo=html5)]()
+[![CSS](https://img.shields.io/badge/CSS-ccc?logoColor=ccc&labelColor=333&logo=css3)]()
 
 [![MSSQL](https://img.shields.io/badge/MSSQL-ccc?logoColor=ccc&labelColor=333&logo=microsoftsqlserver)]()
 [![MySQL](https://img.shields.io/badge/MySQL-ccc?logoColor=ccc&labelColor=333&logo=mysql)]()

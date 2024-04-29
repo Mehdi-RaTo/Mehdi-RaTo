@@ -17,6 +17,7 @@
 [![.NET](https://img.shields.io/badge/.NET-ccc?logoColor=ccc&labelColor=333&logo=dotnet)]()
 [![Unity](https://img.shields.io/badge/Unity-ccc?logoColor=ccc&labelColor=333&logo=unity)]()
 [![React](https://img.shields.io/badge/React-ccc?logoColor=ccc&labelColor=333&logo=react)]()
+[![Next.js](https://img.shields.io/badge/Next.js-ccc?logoColor=ccc&labelColor=333&logo=nextdotjs)]()
 [![React Native](https://img.shields.io/badge/React_Native-ccc?logoColor=ccc&labelColor=333&logo=react)]()
 [![Laravel](https://img.shields.io/badge/Laravel-ccc?logoColor=ccc&labelColor=333&logo=laravel)]()
 [![PWA](https://img.shields.io/badge/PWA-ccc?logoColor=ccc&labelColor=333&logo=pwa)]()

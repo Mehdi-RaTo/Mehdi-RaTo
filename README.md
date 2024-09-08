@@ -1,23 +1,5 @@
-## Work experience:
+### Work experience:
 
-[![C++](https://img.shields.io/badge/C%2B%2B-ccc?logoColor=ccc&labelColor=333&logo=cplusplus)]()
-[![C#](https://img.shields.io/badge/C%23-ccc?logoColor=ccc&labelColor=333&logo=csharp)]()
-[![Visual Basic](https://img.shields.io/badge/Visual_Basic-ccc?logoColor=ccc&labelColor=333&logo=visualbasic)]()
-[![PHP](https://img.shields.io/badge/PHP-ccc?logoColor=ccc&labelColor=333&logo=php)]()
-[![LUA](https://img.shields.io/badge/LUA-ccc?logoColor=ccc&labelColor=333&logo=lua)]()
-[![Python](https://img.shields.io/badge/Python-ccc?logoColor=ccc&labelColor=333&logo=python)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-ccc?logoColor=ccc&labelColor=333&logo=javascript)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-ccc?logoColor=ccc&labelColor=333&logo=typescript)]()
-[![HTML](https://img.shields.io/badge/HTML-ccc?logoColor=ccc&labelColor=333&logo=html5)]()
-[![CSS](https://img.shields.io/badge/CSS-ccc?logoColor=ccc&labelColor=333&logo=css3)]()
+C++, C#, Visual Basic, PHP, LUA, Java, Python, JavaScript, TypeScript, HTML, CSS
 
-[![MSSQL](https://img.shields.io/badge/MSSQL-ccc?logoColor=ccc&labelColor=333&logo=microsoftsqlserver)]()
-[![MySQL](https://img.shields.io/badge/MySQL-ccc?logoColor=ccc&labelColor=333&logo=mysql)]()
-[![Realm](https://img.shields.io/badge/Realm-ccc?logoColor=ccc&labelColor=333&logo=realm)]()
-[![.NET](https://img.shields.io/badge/.NET-ccc?logoColor=ccc&labelColor=333&logo=dotnet)]()
-[![Unity](https://img.shields.io/badge/Unity-ccc?logoColor=ccc&labelColor=333&logo=unity)]()
-[![React](https://img.shields.io/badge/React-ccc?logoColor=ccc&labelColor=333&logo=react)]()
-[![Next.js](https://img.shields.io/badge/Next.js-ccc?logoColor=ccc&labelColor=333&logo=nextdotjs)]()
-[![React Native](https://img.shields.io/badge/React_Native-ccc?logoColor=ccc&labelColor=333&logo=react)]()
-[![Laravel](https://img.shields.io/badge/Laravel-ccc?logoColor=ccc&labelColor=333&logo=laravel)]()
-[![PWA](https://img.shields.io/badge/PWA-ccc?logoColor=ccc&labelColor=333&logo=pwa)]()
+MSSQL, MySQL, Realm, .NET, Unity, React, Next.js, React Native, Laravel, PWA
